@@ -1,0 +1,11 @@
+{
+	"name": "Q2A Create New User",
+	"uri": "https://github.com/kuddus95/",
+	"description": "A plugin for creating new users from admin panel",
+	"version": "1.8",
+	"date": "2024-01-15",
+	"author": "Aman", 
+	"author_uri": "http://www.ask-ans.com",
+	"license": "GPLv2",
+	"load_order": "after_db_init"
+}
